@@ -3,3 +3,7 @@
 ```javascript
 var x = "Hello World!";
 ```
+- [ ] Finised Step One
+- [ ] Finised Step Two
+- [ ] Finised Step Three
+- [x] Finised Step Four
